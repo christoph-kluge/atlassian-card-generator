@@ -1,2 +1,2 @@
-atlassian-card-generator
-========================
+angularJS - jiraCardApp
+=======================
